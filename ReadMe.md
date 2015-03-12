@@ -6,5 +6,5 @@
 + Modernizr
 + Html5shiv
 + Respond.min.js
-+ AnimateCSS
++ AnimateCSS+js
 + Waypoints.min.js
